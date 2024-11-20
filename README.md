@@ -12,10 +12,15 @@ Clone the project into your directory and follow the given steps to run the quic
 
 ## Technologies Used
 
-- **Backend**: Laravel
+- **Backend**: Laravel, Livewire
 - **Frontend**: Tailwind CSS, Blade (template engine), Alpine.js
 - **Database**: MySQL
 - **Version Control**: Git
+
+
+## Screenshots
+
+![Quick Todo Screenshot](images/quick-todo-preview.png)
 
 
 # Navigate into the project directory:
@@ -31,6 +36,9 @@ copy .env.example to .env
 
 # Generate an application key:
 php artisan key:generate
+
+
+# Create Database with name quick_todo:
 
 
 # Run migrations:
