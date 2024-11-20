@@ -20,7 +20,7 @@ Clone the project into your directory and follow the given steps to run the quic
 
 ## Screenshots
 
-![Quick Todo Screenshot](images/quick-todo-preview.png)
+<img src="images/quick-todo-preview.png" alt="App Screenshot" width="300" height="auto">
 
 
 # Navigate into the project directory:
