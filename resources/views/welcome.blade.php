@@ -22,6 +22,7 @@
                     </span>
                 </h1>
             </header>
+
         </div>
     </div>
     <div id="content" class="mx-auto" style="max-width:500px;">
