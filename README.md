@@ -1,4 +1,4 @@
-# Cloud App
+# Quick Todo
 
 The Quick Todo app is a simple and user-friendly tool designed to help you keep track of your daily tasks. It allows you to create and manage a list of items, ensuring you never forget important activities in your routine.
 
